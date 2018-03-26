@@ -1,4 +1,4 @@
-# CoffeeOrder
+# Just-Java
 Part of Udacity android courses.
 # Features:
 * email intent
